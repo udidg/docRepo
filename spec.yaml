@@ -22,7 +22,7 @@ paths:
         200:
           description: Echo POST
       parameters:
-        - name: name
+        - name: udiName
           in: formData
           description: name
           type: string

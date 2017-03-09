@@ -21,6 +21,10 @@
 
   </div>
 
+
+
+</body>
+
   <script>
     if (window.navigator && window.navigator.loadPurpose === "preview") {
       window.location.href = "http://nshipster.com/topsites_preview.html";
@@ -164,5 +168,6 @@ return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').e
 })
 </script>
 
-</body>
+
 </html>
+

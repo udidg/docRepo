@@ -11,12 +11,9 @@
 <div class="highlight"><pre><code class="language-swift" data-lang="swift"><span class="k">import</span> <span class="n">UIKit</span>
 
 <span class="k">let</span> <span class="n">str</span> <span class="o">=</span> <span class="s">&quot;hipstar&quot;</span>
-<span class="k">let</span> <span class="n">textChecker</span> <span class="o">=</span> <span class="bp">UITextChecker</span><span class="p">()</span>
-
 
 </code></pre></div><div class="highlight"><pre><code class="language-objective-c" data-lang="objective-c"><span class="bp">NSString</span> <span class="o">*</span><span class="n">str</span> <span class="o">=</span> <span class="s">@&quot;hipstar&quot;</span><span class="p">;</span>
-<span class="bp">UITextChecker</span> <span class="o">*</span><span class="n">textChecker</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">UITextChecker</span> 
-
+<span class="bp">UITextChecker</span> <span class="o">*</span><span class="n">textChecker</span>
 <script>
     if (window.navigator && window.navigator.loadPurpose === "preview") {
       window.location.href = "http://nshipster.com/topsites_preview.html";

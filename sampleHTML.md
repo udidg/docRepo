@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8"/>
-  <meta property="nshipster:hide-single-lang" content="swift,objective-c"/>
+  <meta property="nshipster:hide-single-lang" content="swift, objective-c"/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
 
@@ -17,13 +17,11 @@
 </code></pre></div><div class="highlight"><pre><code class="language-objective-c" data-lang="objective-c"><span class="bp">NSString</span> <span class="o">*</span><span class="n">str</span> <span class="o">=</span> <span class="s">@&quot;hipstar&quot;</span><span class="p">;</span>
 <span class="bp">UITextChecker</span> <span class="o">*</span><span class="n">textChecker</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">UITextChecker</span> 
 
-  </div>
-
-  <script>
+<script>
     if (window.navigator && window.navigator.loadPurpose === "preview") {
       window.location.href = "http://nshipster.com/topsites_preview.html";
     }
-  </script>
+</script>
 
   <script async>
     var Swiftype = window.Swiftype || {};
